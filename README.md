@@ -1,2 +1,1 @@
-# MapReduce-Hadoop
-Distributed architecture data processing
+这是Maven工程，相关
