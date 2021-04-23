@@ -1,1 +1,1 @@
-这是Maven工程，相关
+这是基于Maven的项目，这里只提供了关于基于MapReduce的Mapper,Reducer,driver类的实现
